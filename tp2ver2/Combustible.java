@@ -1,9 +1,10 @@
-package tp2;
+package tp2ver2;
 
-public class Estacion {
+public class Combustible {
     public static void main(String[] args) {
+
         
-        int 10000
+
     }
 
 }
